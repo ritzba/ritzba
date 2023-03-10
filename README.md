@@ -1,6 +1,5 @@
 ![image](https://user-images.githubusercontent.com/108274551/224436649-d99e4672-8325-46fc-b78c-1727750dd808.png)
 
-# My interests
 ## Using data analysis and machine learning to help guide conversations about criminal justice and mental health
 
 <img src="https://user-images.githubusercontent.com/108274551/224438014-dcebfc2a-3334-4804-93d3-bf730e8b2068.png" width="600">
@@ -28,5 +27,5 @@ I'm annoyed that Andrew Wiles beat me to the proof of Fermat's Last Theorem.  St
 My wife and I are happily married (two adorable rascals in almost 10 years, thank G-d :-) ), but we moonlight as online matchmakers.  I'm interested in developing models to help guide matchmaking based on demographics and to help singles write targeted personal descriptions.
 
 ## MLB and KBO baseball 
-There's so much you can do with statistics, but there aren't many things in life (other than my family, of course) more beautiful than a [Pedro Martinez breaking ball](https://www.youtube.com/watch?v=6hq5jfMuSS8) or a [Tim Wakefield knuckball](https://www.youtube.com/watch?v=_j8Nemg9fAM).  (And perhaps nothing sillier than a [Craig Kimbrel windup](https://www.youtube.com/watch?v=T80GETwzqqM)).
+There's so much you can do with statistics, but there aren't many things in life (other than [my family](https://www.facebook.com/photo.php?fbid=10220977064712590&set=t.4101991&type=3), of course) more beautiful than a [Pedro Martinez breaking ball](https://www.youtube.com/watch?v=6hq5jfMuSS8) or a [Tim Wakefield knuckball](https://www.youtube.com/watch?v=_j8Nemg9fAM).  (And perhaps nothing sillier than a [Craig Kimbrel windup](https://www.youtube.com/watch?v=T80GETwzqqM)).
 
