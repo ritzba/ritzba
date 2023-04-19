@@ -4,8 +4,6 @@
 
 ## Using data analysis and machine learning to help guide conversations about criminal justice and mental health
 
-<img src="https://user-images.githubusercontent.com/108274551/224438014-dcebfc2a-3334-4804-93d3-bf730e8b2068.png" width="600">
-
 * bond amounts based on crime and criminal record
     * One of my long-term goals is to develop an AI/ML judicial commissioner that can set equitable bond amounts and be available 24/7, especially for rural communities where courts are in session only once or twice a month.
 * final dispositions of cases based on charges
