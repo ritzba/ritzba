@@ -38,11 +38,6 @@ Ritzba is a Hebrew acronym for **R**euven **TZ**vi **B**en **E**liezer
 
 I'm annoyed that Andrew Wiles beat me to the proof of Fermat's Last Theorem.  Still working on proving that there are [no odd perfect numbers](https://en.wikipedia.org/wiki/Perfect_number), but I'm telling people that ["I have discovered a truly remarkable proof of this theorem which this margin is too small to contain."](https://en.wikiquote.org/wiki/Pierre_de_Fermat) 
 
-## Dating  
-<img src="https://user-images.githubusercontent.com/108274551/224875704-1dbcd6b3-b185-47f3-a8f8-ba0b30774745.png" height="300">
-
-My wife and I are happily married (two adorable rascals in almost 10 years, thank G-d :-) ), but we moonlight as online matchmakers.  I'm interested in developing models to help guide matchmaking based on demographics and to help singles write targeted personal descriptions.
-
 ## MLB and KBO baseball 
 
 <img src="https://user-images.githubusercontent.com/108274551/224883419-870175f6-a793-4613-a09f-13642c29e899.png" height="300">
